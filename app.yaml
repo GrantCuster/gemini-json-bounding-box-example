@@ -1,0 +1,4 @@
+runtime: nodejs20
+service: gemini-json-bounding-box-example
+
+default_expiration: "0s"
