@@ -2,7 +2,7 @@
 
 An example front-end for how to prompt and then display bounding box info from the Gemini API.
 
-![json-bounding-box.jpg](screenshot of labeled bounding box demo)
+![screenshot of labeled bounding box demo](json-bounding-box.jpg)
 
 A fancier example is available at https://github.com/GrantCuster/gemini-spatial-example.
 
